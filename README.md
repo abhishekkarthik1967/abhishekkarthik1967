@@ -15,15 +15,6 @@
 - ⚡ Fun fact: I love to go to beaches
 - Profile views: ![](https://hit.yhype.me/github/profile?user_id=77954349)
 
-<br>
-<h2>📊 Github Stats</h2>
-
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekkarthik1967&theme=onedark)
-
-<br>
-
-<br />
-
 ### Languages and Tools:
 
 <p align="left"> 
